@@ -45,7 +45,7 @@ public class Program {
 
 		Scanner in = new Scanner(System.in);
 
-		System.out.println("Enter the radius: ");
+		System.out.println("Enter the radius in meters: ");
 		double radi = in.nextDouble();
 
 		in.close();
