@@ -53,7 +53,7 @@ public class Program {
 
 		System.out.println("\nThe area is: " + area(radi));
 
-		System.out.println("\nThe perimeter is: " + perimeter(radi));
+		System.out.println("\nThe perimeter is: " + perimetro(radi));
 
 	}
 }
