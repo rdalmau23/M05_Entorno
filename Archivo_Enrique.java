@@ -5,7 +5,7 @@
  * Program to calculate the area and the perimeter
  * of a circle knowing the radius in meter.
  *
- * Copyright 2023 Rafel Dalmau <rdalmau23@ilg.cat>
+ * Copyright 2023 Enrique Rodriguez <erodriguez21@ilg.cat>
  *
  * This is free software, licensed under the GNU General Public License v3.
  * See http://www.gnu.org/licenses/gpl.html for more information.
@@ -17,7 +17,7 @@ import java.util.Scanner;
 public class Program {
 	/**
 	 * Calculates the area of a circle
-	 * 
+	 *
 	 * @param radius is a double numbers
 	 * @return a double: the area of a circle
 	 */
@@ -28,7 +28,7 @@ public class Program {
 
 	/**
 	 * Calculates the perimeter of a circle
-	 * 
+	 *
 	 * @param radius is a double numbers
 	 * @return a double: the perimeter of a circle
 	 */
@@ -39,7 +39,7 @@ public class Program {
 
 	/**
 	 * TUI = Terminal User Interface
-	 * 
+	 *
 	 * @param args not used.
 	 */
 	public static void main(String[] args) {
