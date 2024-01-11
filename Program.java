@@ -1,4 +1,4 @@
-/*
+/*11/1/2024
  * Program.java        20.10.2020
  *
  * Program to calculate the area and the perimeter
@@ -22,7 +22,7 @@ public class Program {
 	 */
 	public static double area(double radius) {
 
-		return Math.PI * Math.pow(radius, 2);
+		return Math.PI *  Math.pow(radius, 2);
 	}
 
 	/**
