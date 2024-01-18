@@ -4,7 +4,7 @@
  * Program to calculate the area and the perimeter
  * of a circle knowing the radius in meter.
  *
- * Copyright 2023 Rafel Dalmau <rdalmau23@ilg.cat>
+ * Copyright 2023 Pol Hidalgo <phidalgo23@ilg.cat>
  *
  * This is free software, licensed under the GNU General Public License v3.
  * See http://www.gnu.org/licenses/gpl.html for more information.
